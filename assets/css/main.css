@@ -1687,3 +1687,21 @@ input, select, textarea {
 	padding-bottom: 20px;
 	border-bottom: solid 1px white;
 }
+
+.link {
+	margin-left: 25%;
+	padding-top: 20px;
+	margin-top: 10px;
+}
+
+.long {
+	height: 610px;
+}
+
+
+.darkness {
+	margin: auto;
+	padding: 5px;
+	width: 98%;
+	height: 32rem;
+}
